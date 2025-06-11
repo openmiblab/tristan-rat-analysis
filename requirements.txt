@@ -1,0 +1,5 @@
+pandas==2.3.0
+numpy==2.3.0
+matplotlib==3.10.3
+pydmr==0.0.4
+miblab[data]==0.0.15
